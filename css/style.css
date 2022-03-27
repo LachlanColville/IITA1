@@ -1,0 +1,31 @@
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+
+body {background-color: rgb(223, 223, 233):
+      }
+
+h1 {font-family: 'Roboto Mono', monospace;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center;}
+
+h2 {font-family: 'Roboto Mono', monospace;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    }
+
+h5 {font-family: 'Roboto Mono', monospace;
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+  
+p {font-family: 'Roboto Mono', monospace;
+   margin-right: 300px;
+   margin-left: 300px;
+   color: brown;
+  }
